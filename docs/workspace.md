@@ -17,5 +17,5 @@
 - [sources/solutions/](../sources/solutions/) 存解答。2.13 和 2.13-energy 分别对应动力学与机械能守恒。
 - [public/figures/](../public/figures/) 存学习示意图。第二章示意图和第三章受力图来自本地整理材料中的自绘 SVG，3.2、3.4、3.30 的题面示意图为本项目重绘。
 - [scripts/bank.mjs](../scripts/bank.mjs) 生成可重复构建的题库，并检查解答中的粗体数学命令与图像路径。
-- [src/](../src/) 实现训练会话、订正、错题、复习计划、统计与备份。界面及状态机制来自本账号下的 [PhysDrill](https://github.com/yuxuan6426/PhysDrill/tree/7ce4a4c8ff0932f1e358fcddd7d46f4e0cd0e77c)，题库及判定逻辑按理论力学习题适配。
+- [src/](../src/) 实现训练会话、订正、错题、复习计划、统计与备份。界面及状态机制来自本账号下的 [PhysDrill](https://github.com/yuxuan6426/PhysDrill/tree/11107350f73f088305f1881619d847162b210c0c)，题库及判定逻辑按理论力学习题适配。
 - [GitHub Pages 工作流](../.github/workflows/pages.yml) 对主分支做题库一致性检查、格式检查、测试和构建，再部署到项目子路径。
